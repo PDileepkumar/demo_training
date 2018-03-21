@@ -1,0 +1,208 @@
+.topnav{
+    background-color:#0B71AC;
+    padding: 15px 5px 5px 2px;
+}
+.phone .num{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+}
+.Qustion{
+    float: left;
+    color: #fff;
+    list-style: none;
+    padding: 8px;
+    margin-left: 10px;
+}
+.phone{
+    float: right;
+    color: #fff;
+    margin-right:30px;
+}
+.navbar{
+    background:url(BG.jpg);
+    width: 100%;
+}
+.navbar-toggle{
+    background-color: red;
+}
+.collapse{
+    float: right;
+    margin-right: 30px;
+    position: relative;
+}
+.navbar-collapse .navbar-nav>li>a{
+    color: #000;
+    font-weight: 300;
+}
+.logo{
+    float: left;
+    margin-left: 0px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+#myCarousel{
+    margin-top: -20px;
+}
+/*About us Start*/
+.bottom_section {
+            float: left;
+            width: 100%;
+            background: #eee;
+        }
+        .bottom_section .waves_graph {
+            float: left;
+            width: 100%;
+            height: 10px;
+            padding-bottom: 30px;
+            background: url(waves-graph.png) repeat-x left top;
+        }
+        .container {
+            width: 1170px;
+            margin: auto auto auto auto;
+        }
+        .bottom_section .one_half {
+            float: left;
+            width: 48%;
+            margin-right: 4%;
+        }
+        .one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth {
+            position: relative;
+            margin-right: 4%;
+            float: left;
+        }
+        .whyus {
+            float: left;
+            width: 93%;
+            padding: 5% 0% 6% 7%;
+            border-radius: 4px;
+            background-color: #fff;
+            -webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
+            box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.2);
+        }
+        .whyus strong {
+            text-transform: uppercase;
+            font-size: 14px;
+            display: block;
+        }
+        strong {
+            font-weight: bold;
+        }
+        .whyus ul {
+            float: left;
+            width: 45%;
+            padding: 0px;
+            margin: 10px 20px 0px 0px;
+        }
+        ul {
+            list-style: none;
+        }
+        .whyus li {
+            padding: 13px 20px;
+            margin: 10px 0px 0px 0px;
+            border-radius: 4px;
+            background-color: #f0f0f0;
+            color: #393a3b;
+        }
+        ul li {
+            list-style: none;
+        }
+        .last {
+            margin-right: 0 !important;
+            clear: right;
+        }
+        .one_half {
+            width: 48%;
+        }
+        h2 {
+            font-size: 27px;
+            line-height: 27px;
+            margin-bottom: 22px;
+            font-style: normal;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: normal;
+            color: #cc0000;
+        }
+        p {
+            font: 13px 'Open Sans', sans-serif;
+            font-weight: normal;
+            line-height: 22px;
+        }
+        .whyus li i {
+            color: #0a70e3;
+        }
+        .whyus li i {
+            margin-right: 7px;
+            color: #1889c1;
+            font-size: 20px;
+        }
+        .fa {
+            display: inline-block;
+            font-family: FontAwesome;
+            font-style: normal;
+            font-weight: normal;
+            line-height: 1;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        /*About us Ends*/
+  h2 {
+            font-size: 27px;
+            line-height: 27px;
+            margin-bottom: 22px;
+            font-style: normal;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: normal;
+            color: #cc0000;
+        }
+        p {
+            font: 13px 'Open Sans', sans-serif;
+            font-weight: normal;
+            line-height: 22px;
+        }
+#scroller {
+        position: relative;
+    }
+    #scroller .innerScrollArea {
+        overflow: hidden;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+    #scroller ul {
+        padding: 0;
+        margin: 0;
+        position: relative;
+    }
+    #scroller li {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        position: absolute;
+    }
+.Latest .updates{
+    
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+}
+.total-footer{
+    background-color: black
+}
+iframe{
+    padding: 10px;
+    margin-top: 50px;
+}
+.Quick .Quick-ltem{
+        padding: 4px;
+        list-style: none;
+        border-bottom: 1px dashed #fff;
+    }
